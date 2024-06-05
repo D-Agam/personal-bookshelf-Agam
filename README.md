@@ -17,9 +17,10 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
    git clone https://github.com/your-username/personal-bookshelf.git
 2. **cd personal-bookshelf-Agam**
-3. **npm install**
-4. **npm start**
-5. personal-bookshelf/
+3. **cd my-app**
+4. **npm install**
+5. **npm start**
+6. personal-bookshelf/
 │
 ├── public/
 │   ├── index.html
